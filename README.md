@@ -18,6 +18,7 @@ Content Type Trends: Investigating whether Netflix has shifted its focus towards
 1. Content Availability by Country
 Analyze the distribution of Netflix content across different countries.
 Identify the top countries with the most extensive libraries and compare their content diversity.
+
 ![image](https://github.com/user-attachments/assets/aeb1f9c2-647b-4410-8487-048f3194098f)
 
 
