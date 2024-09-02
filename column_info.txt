@@ -1,26 +1,26 @@
 Columns
 File: netflix_titles.csv
-----------------------------------
-| Column name    |  Description  |
-----------------------------------
-Show_id
-Unique ID for every Movie / Tv Show
-Type
-Identifier - A Movie or TV Show
-Title
-Title of the Movie / Tv Show
-Director
-Director of the Movie
-Cast
-Actors involved in the movie / show
-Country
-Country where the movie / show was produced
-Date_added
-Date it was added on Netflix
-release_year
-Actual Release year of the move / show
-rating
-TV Rating of the movie / show
-duration
-Total Duration - in min
+---------------------------------------------------------|
+| Column name     |        Description  |
+---------------------------------------------------------
+Show_id            | Unique ID for every Movie / Tv Show
+---------------------------------------------------------
+Type               |  Identifier - A Movie or TV Show
+---------------------------------------------------------
+Title              |  Title of the Movie / Tv Show
+---------------------------------------------------------
+Director           |  Director of the Movie
+---------------------------------------------------------
+Cast               |  Actors involved in the movie / show
+---------------------------------------------------------
+Country            | Country where the movie / show was produced
+-------------------------------------------------------------------
+Date_added         | Date it was added on Netflix
+------------------------------------------------------------------
+release_year       | Actual Release year of the move / show
+------------------------------------------------------------------
+rating             | TV Rating of the movie / show
+------------------------------------------------------------------
+duration           |Total Duration - in min
+-------------------------------------------------------------------
 
