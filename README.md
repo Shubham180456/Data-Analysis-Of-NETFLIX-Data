@@ -1,6 +1,20 @@
 # Data-Analysis-Of-NETFLIX-Data
 Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Netflix
 
+# Table of Contents
+
+Project Overview
+
+Objectives
+
+Data
+
+Analysis
+
+Result
+
+Contact
+
 # Project Overview
 This project aims to derive actionable insights from Netflix's content dataset through various analyses 
 including:
@@ -34,6 +48,9 @@ Identify key figures with high centrality in the network, indicating frequent co
 Examine the trend of Netflix's content production over the years.
 Analyze whether Netflix has shown a significant shift towards producing more TV shows compared to movies.
 
+![image](https://github.com/user-attachments/assets/259a3508-3437-49e3-9d3a-97ff5b46e64c)
+
+
 # Data
 
 The dataset used in this project is available as a CSV file (netflix_titles.csv). It contains information about movies and TV shows available on Netflix, including attributes such as title, director, cast, country, date added, release year, rating, duration, and genre.
@@ -61,8 +78,6 @@ Network Analysis: Highlighted key figures like David Attenborough, Robert Rodrig
 Content Type Trends: The analysis confirmed a notable shift towards the production and acquisition of TV shows in recent years, aligning with current viewer preferences.
 
 # Contact 
-
-For any inquiries or issues, please contact:
 
 Mail-ID: Shubham.M.Nakate@gmail.com 
 
