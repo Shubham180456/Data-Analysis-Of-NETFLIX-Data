@@ -33,4 +33,38 @@ Identify key figures with high centrality in the network, indicating frequent co
 Examine the trend of Netflix's content production over the years.
 Analyze whether Netflix has shown a significant shift towards producing more TV shows compared to movies.
 
-![image](https://github.com/user-attachments/assets/f20fee9b-2d7a-4ded-b006-3c294eb7f730)
+# Data
+
+The dataset used in this project is available as a CSV file (netflix_titles.csv). It contains information about movies and TV shows available on Netflix, including attributes such as title, director, cast, country, date added, release year, rating, duration, and genre.
+
+# Analysis
+
+The analysis covers the following key areas:
+
+Content Availability by Country: Breakdown of Netflix content by country to identify key markets and content diversity.
+
+Content Similarity Analysis: Using text-based features to identify and recommend similar content.
+
+Network Analysis of Actors/Directors: Mapping out the relationships between actors and directors to uncover central figures and collaboration patterns.
+
+Content Type Trends: Analyzing the trends in TV shows versus movies over the years to determine Netflix's strategic focus.
+
+# Results 
+
+Content Availability: The analysis revealed the top countries with the largest content libraries, such as the United States, India, and the United Kingdom, with a strong focus on content from Western and English-speaking countries.
+
+Content Similarity: Identified similar titles and content based on text-based feature matching, which can be used for content recommendation.
+
+Network Analysis: Highlighted key figures like David Attenborough, Robert Rodriguez, and Steven Spielberg, who have a significant influence based on their collaboration networks.
+
+Content Type Trends: The analysis confirmed a notable shift towards the production and acquisition of TV shows in recent years, aligning with current viewer preferences.
+
+# Contact 
+
+For any inquiries or issues, please contact:
+
+Mail-ID: Shubham.M.Nakate@gmail.com 
+
+LinkedIn: www.linkedin.com/in/shubham-nakate-235a5513b
+
+Phone: +4915225964296
